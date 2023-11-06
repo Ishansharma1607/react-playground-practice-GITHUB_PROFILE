@@ -1,0 +1,19 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+div {
+  border: 1px solid #ccc;
+  margin: 1em;
+  padding: 1em;
+}
+
+input {
+  display: block;
+  margin: 1rem 0;
+}
+
+pre {
+  background-color: white;
+}
